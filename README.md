@@ -19,5 +19,19 @@ Serving the HTML pages.
 
 Testing the webserver
 ## PROGRAM:
+~~~
+<!DOCTYPE html>
+<html>
+<head>
+<title>My webserver</title>
+</head>
+<body>
+<h1>Name : Syed Muhammed Zahi</h1>
+<h2>21004029</h2>
+<h3>Dept.:Artificial Intelligence and Data Science</h3>
+</body>
+</html>
+~~~
 ## OUTPUT:
+![GitHub logo](WEB.PNG)
 ## RESULT:
