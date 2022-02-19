@@ -32,7 +32,7 @@ Testing the webserver
 </html>
 ~~~
 ## OUTPUT:
-![GitHub logo](WEB.PNG)
+![github logo](1.png)
 ## RESULT:
       Thus a simple webserver to serve html pages is developed.
 
